@@ -1,0 +1,7 @@
+cd /Users/aubreyguess/Desktop/Game/Game
+git init
+git add .
+git commit -m "Initial app and privacy pages"
+git branch -M main
+git remote add origin https://github.com/atguess/neon--drift--pulse.git
+git push -u origin main
